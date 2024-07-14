@@ -1,2 +1,4 @@
 # small projects
- Smaller, simple or fun projects.
+ A collection of smaller, simple or fun projects.
+ 
+ Basketball Scoreboard 
